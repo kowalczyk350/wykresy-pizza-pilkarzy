@@ -2,7 +2,7 @@
 
 ## 📊 Wykres-pizza
 
-Poniższy wykres przedstawia percentyle Mazurka na tle innych pomocników w Ekstraklasie w sezonie 2024/25.
+Poniższy wykres przedstawia percentyle Mazurka na tle innych pomocników w Ekstraklasie w sezonie 2025/26.
 
 ![Wykres-pizza Mazurka](mazurek_pizza.png)
 
@@ -88,7 +88,7 @@ Mazurek to **kreatywny pomocnik ofensywny**, który najlepiej czuje się w polu 
 
 ## 🔗 Źródło danych
 
-Dane pochodzą z **FBref.com** i obejmują sezon 2024/25 Ekstraklasy.
+Dane pochodzą z **FBref.com** i obejmują sezon 2025/26 Ekstraklasy.
 
 ---
 
