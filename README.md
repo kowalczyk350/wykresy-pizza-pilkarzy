@@ -11,3 +11,6 @@ Robert Lewandowski is one of the most prolific finishers in football history. Hi
 ## Olise
 ![Olise's Pizza Chart](olise_final_clean_no_grid.png)
 Michael Olise, a rising star, showcases his creativity and playmaking abilities in his pizza chart. The analysis reflects his contributions to the team's offensive strategies.
+### 🟢 Mazurek (Jagiellonia Białystok)
+- [Wykres-pizza](mazurek_pizza.png)
+- [Pełna analiza profilu](ANALIZA_MAZUREK.md)
