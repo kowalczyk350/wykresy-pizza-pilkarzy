@@ -11,6 +11,15 @@ Robert Lewandowski is one of the most prolific finishers in football history. Hi
 ## Olise
 ![Olise's Pizza Chart](olise_final_clean_no_grid.png)
 Michael Olise, a rising star, showcases his creativity and playmaking abilities in his pizza chart. The analysis reflects his contributions to the team's offensive strategies.
+
+## Axel Taonsa
+![Axel Taonsa's Pizza Chart](Axel_Taonsa_pizza.png)
+Axel Taonsa presents a strong attacking profile with particularly high percentile rankings in non-penalty goals, non-penalty G+A/90, goals and goals/90. A high-level forward profile with strong scoring output and attacking impact.
+
+### 🟢 Axel Taonsa (Västerås SK)
+- [Wykres-pizza](Axel_Taonsa_pizza.png)
+- [Pełna analiza profilu](Axel_Taonsa.md)
+
 ### 🟢 Mazurek (Jagiellonia Białystok)
 - [Wykres-pizza](mazurek_pizza.png)
 - [Pełna analiza profilu](ANALIZA_MAZUREK.md)
