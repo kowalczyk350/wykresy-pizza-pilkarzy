@@ -16,9 +16,17 @@ Michael Olise, a rising star, showcases his creativity and playmaking abilities 
 ![Axel Taonsa's Pizza Chart](Axel_Taonsa_pizza.png)
 Axel Taonsa presents a strong attacking profile with particularly high percentile rankings in non-penalty goals, non-penalty G+A/90, goals and goals/90. A high-level forward profile with strong scoring output and attacking impact.
 
+## Marcel Reguła
+![Marcel Reguła Heatmap](Marcel_Regula_heatmap.svg)
+Marcel Reguła działał głównie jako wysoki prawy skrzydłowy, koncentrując aktywność w prawym sektorze i w okolicach pola karnego. Heatmapa pokazuje duże zaangażowanie ofensywne, ruch bez piłki, wejścia w przestrzeń za linią obrony oraz aktywność w strefie końcowej.
+
 ### 🟢 Axel Taonsa (Västerås SK)
 - [Wykres-pizza](Axel_Taonsa_pizza.png)
 - [Pełna analiza profilu](Axel_Taonsa.md)
+
+### 🟢 Marcel Reguła
+- [Heatmapa](Marcel_Regula_heatmap.svg)
+- [Pełna analiza profilu](Marcel_Regula.md)
 
 ### 🟢 Mazurek (Jagiellonia Białystok)
 - [Wykres-pizza](mazurek_pizza.png)
