@@ -20,6 +20,10 @@ Axel Taonsa presents a strong attacking profile with particularly high percentil
 ![Marcel Reguła Heatmap](Marcel_Regula_heatmap.svg)
 Marcel Reguła działał głównie jako wysoki prawy skrzydłowy, koncentrując aktywność w prawym sektorze i w okolicach pola karnego. Heatmapa pokazuje duże zaangażowanie ofensywne, ruch bez piłki, wejścia w przestrzeń za linią obrony oraz aktywność w strefie końcowej.
 
+## Wojciech Urbański
+![Wojciech Urbański Heatmap](Wojciech_Urbanski_heatmap.svg)
+Wojciech Urbański był zaangażowany głównie w strefy centralne oraz między polem środkowym a polem karnym rywala. Heatmapa pokazuje dużą aktywność w budowaniu akcji i przekazywaniu piłki w fazie organizacji, z naciskiem na pracę w środkowej części boiska i w strefie pomiędzy liniami.
+
 ### 🟢 Axel Taonsa (Västerås SK)
 - [Wykres-pizza](Axel_Taonsa_pizza.png)
 - [Pełna analiza profilu](Axel_Taonsa.md)
@@ -27,6 +31,10 @@ Marcel Reguła działał głównie jako wysoki prawy skrzydłowy, koncentrując 
 ### 🟢 Marcel Reguła
 - [Heatmapa](Marcel_Regula_heatmap.svg)
 - [Pełna analiza profilu](Marcel_Regula.md)
+
+### 🟢 Wojciech Urbański
+- [Heatmapa](Wojciech_Urbanski_heatmap.svg)
+- [Pełna analiza profilu](Wojciech_Urbanski.md)
 
 ### 🟢 Mazurek (Jagiellonia Białystok)
 - [Wykres-pizza](mazurek_pizza.png)
